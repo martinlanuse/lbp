@@ -1,0 +1,1 @@
+function incrementViewsNumber(){var b=window.location.href,a=new XMLHttpRequest;a.open("PUT","/mapi/PageContentAPI/incrementNumberOfViews");a.setRequestHeader("Content-Type","application/json;charset\x3dUTF-8");a.send(JSON.stringify({url:b}))};

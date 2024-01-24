@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lbpam.com	TRUE	/	FALSE	1999999999	JSESSIONID	DF881B7B9862AFCD4786FDD07D436030
+www.lbpam.com	TRUE	/	FALSE	1999999999	BNES_JSESSIONID	RXSEAUivjlKoBjGTA/rxXpGMnSNMZweBwSzu0DXjZWwfqTJzE2ZigCwgAL8xpPU0hPWR88TR1NG6fEKWNQeXnDl8tWwNeY9TXTjY5I46qMzW7HzZqaPJTA==
+
